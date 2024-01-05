@@ -10,10 +10,22 @@ The design and layout is a fictional realestate websiite that displays homes for
 
 The aim of this project is to practice CSS Grid 
 
+**Requirements**
+
+- Firefox - This is to practice using the Developer Tools in Firefox 
+
 
 ## Getting Started 
 
+``npm install``
 
+``npm start``
+
+This will open in the browser: Firefox - To practice using the developer tools
+
+<img src="screenshots/browser.png" width="200" />
+
+Note: to make sure this is working, make a small change in the HTML / CSS files to see this is reflects in the css/style.css file. 
 
 
 ## Learnings
