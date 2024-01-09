@@ -19,9 +19,9 @@ The aim of this project is to practice CSS Grid
 
 ``npm install``
 
-``npm start``
+``npm run start``
 
-This will open in the browser: Firefox - To practice using the developer tools
+This will open in the browser: Firefox - To practice using the developer tools.
 
 <img src="screenshots/browser.png" width="200" />
 
@@ -29,6 +29,14 @@ Note: to make sure this is working, make a small change in the HTML / CSS files 
 
 
 ## Learnings
+
+Set up of all the components (as per the design).
+
+There are 8 main components to the layout. 
+
+<img src="screenshots/components.png" width="200" />
+
+___
 
 
 
