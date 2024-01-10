@@ -42,3 +42,8 @@ ___
 
 ## Screnshot Progress
 
+Created the Grid Layout.
+
+<img src="screenshots/grid_layout.png" width="500" />
+
+<img src="screenshots/grid_code.png" width="500" />
