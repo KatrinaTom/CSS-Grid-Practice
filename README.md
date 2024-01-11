@@ -62,3 +62,12 @@ ___
 * grid container for the images
 
 <img src="screenshots/story_picture.png" width="500" />
+
+**Home Section**
+
+* styling image 
+* content displays
+* display icons
+* contact realtor button 
+
+<img src="screenshots/home_section.png" width="500" />
