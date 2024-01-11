@@ -71,3 +71,14 @@ ___
 * contact realtor button 
 
 <img src="screenshots/home_section.png" width="500" />
+
+**Gallery Section**
+
+This was complicated. Using the developer tools in firefox helped visualise the grid layout.
+
+* grid-gap added with padding to make it look like it has a gutter
+
+<img src="screenshots/gallery_grid.png" width="500" />
+
+<img src="screenshots/gallery_section.png" width="500" />
+
