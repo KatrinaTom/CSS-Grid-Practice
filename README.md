@@ -82,3 +82,13 @@ This was complicated. Using the developer tools in firefox helped visualise the 
 
 <img src="screenshots/gallery_section.png" width="500" />
 
+**Footer Section**
+
+<img src="screenshots/footer.png" width="500" />
+
+**Sidebar Section**
+
+<img src="screenshots/sidebar.png" width="50" />
+
+
+
