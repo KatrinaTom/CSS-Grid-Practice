@@ -88,7 +88,16 @@ This was complicated. Using the developer tools in firefox helped visualise the 
 
 **Sidebar Section**
 
+* This is only the button - does not include functionality 
+
 <img src="screenshots/sidebar.png" width="50" />
 
+**Header Section**
+
+* background image 
+* button
+* display logos
+
+<img src="screenshots/header_section.png" width="500" />
 
 
