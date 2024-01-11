@@ -40,10 +40,18 @@ ___
 
 
 
-## Screnshot Progress
+## Screenshot Progress
 
-Created the Grid Layout.
+**Created the Grid Layout**
 
 <img src="screenshots/grid_layout.png" width="500" />
 
 <img src="screenshots/grid_code.png" width="500" />
+
+**Features Section**
+
+* icons
+* typography 
+* features and feature sass file updated
+
+<img src="screenshots/features_section.png" width="500" />
