@@ -55,3 +55,10 @@ ___
 * features and feature sass file updated
 
 <img src="screenshots/features_section.png" width="500" />
+
+**Story and Pictures**
+
+* can use grid or flexbox - end decision use grid to achieve the same result
+* grid container for the images
+
+<img src="screenshots/story_picture.png" width="500" />
