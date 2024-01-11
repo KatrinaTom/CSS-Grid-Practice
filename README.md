@@ -92,7 +92,7 @@ This was complicated. Using the developer tools in firefox helped visualise the 
 
 <img src="screenshots/sidebar.png" width="50" />
 
-**Header Section**
+**Header Section & Realtors**
 
 * background image 
 * button
@@ -100,4 +100,4 @@ This was complicated. Using the developer tools in firefox helped visualise the 
 
 <img src="screenshots/header_section.png" width="500" />
 
-
+<img src="screenshots/realtors_section.png" width="500" />
